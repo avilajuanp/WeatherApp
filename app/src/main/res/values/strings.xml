@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClimaAPP</string>
+    <string name="strBtnSemanal">CADA DIA</string>
+    <string name="strBtnHora">POR HORA</string>
+    <string name="strTemp">TEMP</string>
+    <string name="strPrecip">PRECIP</string>
+</resources>
